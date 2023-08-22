@@ -7,11 +7,15 @@
    - Save the script and visit any website. The date and time will be displayed at the bottom right corner of the site.
 
 
-1. System-live-Time-date :
+1. System :
    
 https://github.com/Rainman69/live-Time-date-for-browser/blob/main/System%20Clock%20and%20Calendar.js
 
 3. Iran US both :
+
+![Screenshot_1](https://github.com/Rainman69/live-Time-date-for-browser/assets/96986338/c71ff011-ff0d-4fe8-84c2-dcb2287add98)
+
+
    
 https://github.com/Rainman69/live-Time-date-for-browser/blob/main/Time%20date%20Iran%20US%20both.js
 
@@ -22,4 +26,6 @@ https://github.com/Rainman69/live-Time-date-for-browser/blob/main/United%20State
 5. Iran :
    
 https://github.com/Rainman69/live-Time-date-for-browser/blob/main/iran%20live%20time%20date.js
+
+
 
