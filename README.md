@@ -11,7 +11,7 @@
    
 https://github.com/Rainman69/live-Time-date-for-browser/blob/main/System%20Clock%20and%20Calendar.js
 
-3. Iran US both :
+2. Iran US both :
 
 ![Screenshot_1](https://github.com/Rainman69/live-Time-date-for-browser/assets/96986338/c71ff011-ff0d-4fe8-84c2-dcb2287add98)
 
@@ -23,7 +23,7 @@ https://github.com/Rainman69/live-Time-date-for-browser/blob/main/Time%20date%20
    
 https://github.com/Rainman69/live-Time-date-for-browser/blob/main/United%20States%20live%20time%20date.js
 
-5. Iran :
+4. Iran :
    
 https://github.com/Rainman69/live-Time-date-for-browser/blob/main/iran%20live%20time%20date.js
 
