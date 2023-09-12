@@ -3,9 +3,11 @@
 // @description  Display the system clock and calendar at the bottom right corner of the site in Chrome browser.
 // @namespace    https://github.com/Rainman69/
 // @version      1.0
-// @author       Your Name
+// @author       https://t.me/TheErfon
 // @match        *://*/*
 // @grant        none
+// @license      CC BY-NC-ND 4.0
+// @licenseURL   https://github.com/Rainman69/live-Time-date-for-browser/blob/main/LICENSE
 // ==/UserScript==
 
 (function() {
